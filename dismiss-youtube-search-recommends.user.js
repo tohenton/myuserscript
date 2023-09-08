@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Dismiss youtube search recommend
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/tohenton/myuserscript
 // @version      1.0
 // @description  Dismiss "あなたへのおすすめ" in youtube search result
 // @author       tohenton

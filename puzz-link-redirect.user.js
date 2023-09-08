@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Redirect to puzz.link
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/tohenton/myuserscript
 // @version      1.0
 // @description  Auto redirect to puzz.link
 // @author       tohenton

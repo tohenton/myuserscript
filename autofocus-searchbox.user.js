@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Autofocus Search Box
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/tohenton/myuserscript
 // @version      1.0
 // @description  Automatically focus on the search box based on domain
 // @author       tohenton
