@@ -4,10 +4,10 @@
 // @version      1.0
 // @description  Automatically focus on the search box based on domain
 // @author       tohenton
-// @include      https://*
-// @include      http://*
+// @match        https://*
+// @match        http://*
 // @grant        none
-// @run-at      document-idle
+// @run-at       document-idle
 // ==/UserScript==
 
 (function() {
