@@ -24,6 +24,7 @@
             }
         });
     };
+    hideRecommendations();
 
     const observer = new MutationObserver(hideRecommendations);
     observer.observe(document.body, {
