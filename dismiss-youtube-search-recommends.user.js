@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dismiss youtube search recommend
 // @namespace    https://github.com/tohenton/myuserscript
-// @version      1.0
+// @version      1.1
 // @description  Dismiss "あなたへのおすすめ" in youtube search result
 // @author       tohenton
 // @match        https://www.youtube.com/results*
