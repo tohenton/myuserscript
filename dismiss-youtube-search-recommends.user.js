@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Dismiss "あなたへのおすすめ" in youtube search result
 // @author       tohenton
-// @match        https://www.youtube.com/results?*
+// @match        https://www.youtube.com/results*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
 // ==/UserScript==
