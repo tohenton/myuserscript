@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Dismiss youtube search recommend
+// @name         Dismiss youtube search recommend (ja)
 // @namespace    https://github.com/tohenton/myuserscript
-// @version      1.2
-// @description  Dismiss "あなたへのおすすめ" in youtube search result
+// @version      1.3
+// @description  Dismiss "recommendation" in youtube search result
 // @author       tohenton
 // @match        https://www.youtube.com/results*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
@@ -12,7 +12,7 @@
 
 (function() {
     'use strict';
-    const RECOMMENDATION_TITLES = ['あなたへのおすすめ'];
+    const RECOMMENDATION_TITLES = ['あなたへのおすすめ', '他の人はこちらも視聴しています'];
 
     let hideRecommendations = () => {
         const recommendationTitles = document.querySelectorAll('h2 span#title');
