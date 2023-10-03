@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Dismiss youtube search recommend
 // @namespace    https://github.com/tohenton/myuserscript
-// @version      1.1
+// @version      1.2
 // @description  Dismiss "あなたへのおすすめ" in youtube search result
 // @author       tohenton
 // @match        https://www.youtube.com/results*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
+// @run-at       document-idle
 // ==/UserScript==
 
 (function() {
